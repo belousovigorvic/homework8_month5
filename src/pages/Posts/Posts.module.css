@@ -1,0 +1,26 @@
+.title {
+  text-align: center;
+  color: white;
+  margin: 15px 0px;
+}
+
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.loading {
+  height: 100vh;
+  color: orange;
+  font-size: 50px;
+  text-align: center;
+}
+
+.error {
+  height: 100vh;
+  color: red;
+  font-size: 50px;
+  text-align: center;
+}
